@@ -8,6 +8,8 @@ target 'fantasycreation' do
 
   use_react_native!(:path => config["reactNativePath"])
 
+  pod 'RNSketchCanvas', :path => '../node_modules/@terrylinla/react-native-sketch-canvas'
+
   target 'fantasycreationTests' do
     inherit! :complete
     # Pods for testing
