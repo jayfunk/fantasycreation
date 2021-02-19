@@ -1,0 +1,6 @@
+module Pods_fantasycreation_fantasycreationTests {
+  umbrella header "Pods-fantasycreation-fantasycreationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

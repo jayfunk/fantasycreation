@@ -1,0 +1,6 @@
+module Pods_fantasycreation {
+  umbrella header "Pods-fantasycreation-umbrella.h"
+
+  export *
+  module * { export * }
+}
